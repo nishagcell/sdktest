@@ -40,7 +40,7 @@ ext {
     artifact = 'sampletest'
     siteUrl = 'https://github.com/nishagcell/sdktest'
     gitUrl = 'https://github.com/nishagcell/sdktest'
-    libraryVersion = '1.0'
+    libraryVersion = '1.1'
     developerId = 'ngupta'
     developerName = 'Nisha'
     developerEmail = 'nisha@graycelltech.com'
